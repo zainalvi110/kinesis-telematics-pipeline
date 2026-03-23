@@ -151,4 +151,4 @@ kinesis_config = {
 
 40 telematics records successfully ingested into Bronze Delta table.
 
-![Pipeline Screenshot](pipeline_screenshot.png)
+![Pipeline Screenshot](pipeline.png)
